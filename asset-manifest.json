@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Instagram/static/css/main.f8702ecb.css",
+    "main.js": "/Instagram/static/js/main.bdd03ff2.js",
+    "static/js/787.0fb9b3d3.chunk.js": "/Instagram/static/js/787.0fb9b3d3.chunk.js",
+    "static/media/googleappstore.png": "/Instagram/static/media/googleappstore.68b0b4ca44cc0b8e6108.png",
+    "static/media/instalogo.png": "/Instagram/static/media/instalogo.40b372dcace690d45a49.png",
+    "static/media/iphoneappstore.png": "/Instagram/static/media/iphoneappstore.bf879409305481c4599b.png",
+    "index.html": "/Instagram/index.html",
+    "main.f8702ecb.css.map": "/Instagram/static/css/main.f8702ecb.css.map",
+    "main.bdd03ff2.js.map": "/Instagram/static/js/main.bdd03ff2.js.map",
+    "787.0fb9b3d3.chunk.js.map": "/Instagram/static/js/787.0fb9b3d3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f8702ecb.css",
+    "static/js/main.bdd03ff2.js"
+  ]
+}
